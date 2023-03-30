@@ -1,9 +1,9 @@
 # SNUNet-CD
 
-[SarasNET](img/model.jpg)
+![SarasNET](img/model.jpg)
 
 # SNUNet
-[SNUNet](img/SNUNet.png)
+![SNUNet](img/SNUNet.png)
 
 
 # Planet-Labs-Disaster-Data-
