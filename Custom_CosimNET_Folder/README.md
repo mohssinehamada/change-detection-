@@ -1,0 +1,1 @@
+The notebook and python file attached is relating to the custom CosimNET trained with only one convolutional layer for 100 epochs to achieve a F1-score of 0.52 where this approach seems promisisng for further work where the loss of each layer is added up cumulatively.
